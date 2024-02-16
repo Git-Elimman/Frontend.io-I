@@ -4,9 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-  - [What I learned](#what-i-learned)
+- [What I learned](#what-i-learned)
 - [Acknowledgments](#acknowledgments)
-
 
 ### What I learned
 
@@ -18,7 +17,7 @@ I learnt how to use media queries and how to make code responsive.As a beginner,
 
 Author
 
-- Website - [Emmanuel Elijah](https://git-elimman.github.io/Frontend.io-I)
+- Website - (https://git-elimman.github.io/Frontend.io-I)
 - Frontend Mentor - [@Git-Elimman](https://www.frontendmentor.io/profile/Git-Elimman)
 
 Acknowledgments
